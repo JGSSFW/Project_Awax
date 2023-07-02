@@ -1,0 +1,1 @@
+Basic web project using just HTML and CSS for training purposes
